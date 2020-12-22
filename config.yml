@@ -26,6 +26,7 @@ params:
   iconType: image/png
   groups:
     - Test
+    - test2
   icon: /images/clearstatus.png
   description_footer: <a class='text-grey-darkest' title='Visit example.com'
     href='https://www.example.com/'>Example.com</a> provides open-source
