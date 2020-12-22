@@ -8,6 +8,7 @@ params:
     - name: Website
       description: Our company public facing website
       link: https://www.example.com/
+      group: Test
     - name: Helpdesk
       description: Our company customer support site
       link: https://support.example.com/
